@@ -16,6 +16,12 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
         * Python 3.8 o superior
         * pipenv
         
-2. Creamos en entorno virtual 
+2. Creamos el entorno virtual 
 
 3. Clonamos el repositorio `$ git clone https://github.com/jcgavella/data_course.git`
+
+4. Instalamos lo requierement `$ pip install -r requirement`
+
+5. Ejecutamos la linea de comando para abrir el jupyter notebook o jupyter lab
+    * `$ jupyter-notebook`
+    * `$ jupyter-lab`
