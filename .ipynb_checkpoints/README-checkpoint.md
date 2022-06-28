@@ -9,3 +9,17 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
 
 
 
+# Ejecutar los notebooks del curso
+
+1. Instalación local con pipenv 
+    * Necesitarás:
+        * Python 3.7 o superior
+        * pipenv
+        
+2. Creamos en entorno virtual 
+
+``
+$ mkdir djangogirls
+$ cd djangogirls
+
+``

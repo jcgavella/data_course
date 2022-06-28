@@ -17,3 +17,9 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
         * pipenv
         
 2. Creamos en entorno virtual 
+
+``
+$ mkdir djangogirls
+$ cd djangogirls
+
+``
