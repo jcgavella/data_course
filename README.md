@@ -21,5 +21,6 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
     `
     $ mkdir djangogirls`
     `
+    
     $ cd djangogirls
     `
