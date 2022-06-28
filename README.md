@@ -18,9 +18,7 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
         
 2. Creamos en entorno virtual 
 
-    `
-    $ mkdir djangogirls`
-    `
+    `$ mkdir djangogirls`
     
-    $ cd djangogirls
-    `
+    
+    `$ cd djangogirls`
