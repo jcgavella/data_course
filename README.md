@@ -28,4 +28,4 @@ El curso esta diseñado para que pueda seguirse de manera autodidacta. Si tiene 
     * `$ jupyter-notebook`
     * `$ jupyter-lab`
     
-6. En el navegador entrar al directorio notebook y estarán ordenados todos los notebook por capítulos
+6. En el navegador entrar al directorio notebook y estarán ordenados todos los notebook por capítulos.
