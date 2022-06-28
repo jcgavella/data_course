@@ -13,12 +13,9 @@ Este curso-tutorial está orientado a tener una guía de referencia rápida de l
 
 1. Instalación local con pipenv 
     * Necesitarás:
-        * Python 3.7 o superior
+        * Python 3.8 o superior
         * pipenv
         
 2. Creamos en entorno virtual 
 
-    `$ mkdir djangogirls`
-    
-    
-    `$ cd djangogirls`
+3. Clonamos el repositorio `$ git clone https://github.com/jcgavella/data_course.git`
